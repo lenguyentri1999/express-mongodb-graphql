@@ -35,3 +35,5 @@ docker ps
 ```bash
 npm run serve
 ```
+
+To debug in Visual Studio Code, don't serve in the command line, but go to VSCode -> Run -> Start Debugging.
